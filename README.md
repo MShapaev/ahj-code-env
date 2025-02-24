@@ -1,6 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3iq77lisykn9pkqm/branch/main?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-env/branch/main)
 
-<<<<<<< HEAD
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
@@ -31,11 +30,3 @@
 Заменить `<OWNER>` на ваш ник на github;
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
-=======
-```md
-![CI](https://github.com/MShapaev/ahj-code-env/actions/workflows/web.yml/badge.svg)
-```
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
->>>>>>> 272588a3a12ef6c910322f9cb69826cd18457fc9
