@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3iq77lisykn9pkqm/branch/main?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-env/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/qjat141dw65x2e2m?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-env)
 
 # Домашнее задание к занятию "1. Рабочее окружение"
 
